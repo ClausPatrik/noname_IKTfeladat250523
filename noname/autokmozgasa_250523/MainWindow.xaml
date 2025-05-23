@@ -28,6 +28,8 @@
             <TextBlock x:Name="TalalatokText" Text="A jeladások száma:" Margin="0,0,0,10"/>
 
             <Button Content="Keresés" Width="100" Click="Kereses_Click"/>
+            <Button Content="Első autó jelzései" Width="100" Click="Elso_Click"/>
+
         </StackPanel>
     </Grid>
 
