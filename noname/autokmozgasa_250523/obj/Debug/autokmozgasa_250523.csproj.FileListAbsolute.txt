@@ -1,0 +1,15 @@
+C:\Users\claus\Desktop\autokmozgasa_250523\bin\Debug\autokmozgasa_250523.exe.config
+C:\Users\claus\Desktop\autokmozgasa_250523\bin\Debug\autokmozgasa_250523.exe
+C:\Users\claus\Desktop\autokmozgasa_250523\bin\Debug\autokmozgasa_250523.pdb
+C:\Users\claus\Desktop\autokmozgasa_250523\obj\Debug\autokmozgasa_250523.csproj.AssemblyReference.cache
+C:\Users\claus\Desktop\autokmozgasa_250523\obj\Debug\MainWindow.g.cs
+C:\Users\claus\Desktop\autokmozgasa_250523\obj\Debug\App.g.cs
+C:\Users\claus\Desktop\autokmozgasa_250523\obj\Debug\autokmozgasa_250523_MarkupCompile.cache
+C:\Users\claus\Desktop\autokmozgasa_250523\obj\Debug\autokmozgasa_250523_MarkupCompile.lref
+C:\Users\claus\Desktop\autokmozgasa_250523\obj\Debug\MainWindow.baml
+C:\Users\claus\Desktop\autokmozgasa_250523\obj\Debug\autokmozgasa_250523.g.resources
+C:\Users\claus\Desktop\autokmozgasa_250523\obj\Debug\autokmozgasa_250523.Properties.Resources.resources
+C:\Users\claus\Desktop\autokmozgasa_250523\obj\Debug\autokmozgasa_250523.csproj.GenerateResource.cache
+C:\Users\claus\Desktop\autokmozgasa_250523\obj\Debug\autokmozgasa_250523.csproj.CoreCompileInputs.cache
+C:\Users\claus\Desktop\autokmozgasa_250523\obj\Debug\autokmozgasa_250523.exe
+C:\Users\claus\Desktop\autokmozgasa_250523\obj\Debug\autokmozgasa_250523.pdb
